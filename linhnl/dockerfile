@@ -5,3 +5,7 @@ sudo apt-install net-tools
 abcxyz
 
 test tai home
+
+function main(){
+
+}
